@@ -1,0 +1,21 @@
+Order_ID,  Customer_Email ,  Product_Name, Price ($),  Region , Status,  Discount_Applied, Date
+1001,   john@email.com,Laptop, 1200.00,West , COMPLETED, , 2024-03-01
+1002,   jane@email.com,Mouse, 25.00, East, PENDING, 0.05, 2024-03-01
+1003,   john@email.com,Laptop, 1200.00,West , COMPLETED, 0.1, 2024-03-02
+1004,   bob@email.com,Monitor, 300.00,East, COMPLETED, 0.15, 2024-03-03
+1005,   sue@email.com,Keyboard, ,North, PENDING, 0.0, 2024-03-03
+1006,   bob@email.com,Monitor, 300.00,East, COMPLETED, 0.15, 2024-03-03
+1007,   sue@email.com,Keyboard, 75.00,North, COMPLETED, 0.0, 2024-03-04
+1008,   alice@email.com,Tablet, 450.00, South, COMPLETED, 0.05, 2024-03-05
+1009,   mike@email.com,Headphones, 150.00, West , PENDING, , 2024-03-05
+1010,   jane@email.com,Mouse, 25.00, East, COMPLETED, 0.0, 2024-03-06
+1011,   tom@email.com,Laptop, 1200.00,North, COMPLETED, 0.2, 2024-03-06
+1012,   alice@email.com,Monitor, 300.00, South, COMPLETED, , 2024-03-07
+1013,   john@email.com,Keyboard, 75.00,West , PENDING, 0.1, 2024-03-07
+1014,   mike@email.com,Tablet, 450.00, West , COMPLETED, 0.05, 2024-03-08
+1015,   sue@email.com,Mouse, 25.00,North, COMPLETED, 0.0, 2024-03-08
+1016,   tom@email.com,Headphones, 150.00,North, COMPLETED, 0.15, 2024-03-09
+1017,   alice@email.com,Laptop, 1200.00, South, PENDING, , 2024-03-09
+1018,   jane@email.com,Keyboard, 75.00, East, COMPLETED, 0.05, 2024-03-10
+1019,   mike@email.com,Monitor, 300.00, West , COMPLETED, 0.1, 2024-03-10
+1020,   tom@email.com,Tablet, 450.00, North, COMPLETED, , 2024-03-11
